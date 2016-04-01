@@ -19,7 +19,7 @@ The primary job of a Scout is to discover the opposing teams deactivation codes.
 The secondary job of a Scout is to perform reconnoissance and to relay information to other team members.  How this information is relayed depends on what upgrades have been unlocked. For example, a pilot mic gives a scout audio communication with their teams pilots.  Another upgrade unlocks a map that is visible to pilots, and allow points to be marked by a scout.
 
 ### Dasher
-The primary job of a dasher is to locate and activate gates. Gates activations earn your team points.  Only active gates can be activated, and once activated they become inactive for a cool down period before it becomes active againt.  Some gates only become active for a period of time after another gate is activated (these form gate runs).
+The primary job of a dasher is to locate and trigger gates. This earns your team points, which determine the winner.  Only active gates can be triggered, and this causes them to become inactive for a cool down period before it becomes active again.  Some gates only become active for a period of time after another gate is triggered.  Runs of such gates earn increasing amounts of points, but require speed and maneuverability to complete.
 
 ## Payloads
 ### Credit payloads

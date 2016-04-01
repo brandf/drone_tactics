@@ -3,17 +3,18 @@ Drone Tactics is a aerial game that emphisizes strategy, team cooperation, drone
 
 ## Gameplay
 The game is broken down into 4 rounds, each 10 minutes long.
+TBD
 
 ## Roles
 ### Lifter
-The primary job of a Lifter is to locate and recover payloads.  Payloads come in several forms and must be returned to your teams base in order to be reovered.  Each round starts with payloads placed throughout the course on payload pads.  Once recovered, a payload pad will release another payload, this repeats until the payload pad is depleted.
+The primary job of a Lifter is to locate and recover payloads.  Payloads come in several forms and must be returned to your teams base in order to be recovered.  Each round starts with payloads placed throughout the course on payload pads.  Once recovered, a payload pad will release another payload, this repeats until the payload pad is depleted.
 
 The secondary job of a Lifter is to position their teams equiptment, for example if a team purchases a centry, a Lifter drone will need to carry it to the desired location. 
 
 Any drone equipped with a lifter hook can take on this role, however larger drones are best at recovering heavy payloads.
 
 ### Scout
-The primary job of a Scout is to discover the opposing teams deactivation codes.  Each drone, and some equiptment, has an LED strip that displays it's deactivation code.  These codes are randomly chosen every minute.  For example if your drone's deactivation code is RED, RED, GREEN, BLUE, RED, BLUE, then the opposing team's scout may see this and deactivate your drone.  If they do, your drone cannot score points, recover payloads, etc until a reactivation code is entered.  After a cool-down period your drone will display the reactivation code on it's LED strip.
+The primary job of a Scout is to discover the opposing teams deactivation codes.  Each drone, and some equiptment, has an LED strip that displays it's deactivation code.  These codes are randomly chosen every minute.  For example if your drone's deactivation code is RED, RED, GREEN, BLUE, RED, BLUE, then the opposing team's scout may see this and deactivate your drone.  If they do, your drone cannot score points, recover payloads, etc until a reactivation code is entered.  After a cool-down period your drone will display the reactivation code on it's LED strip.  Drones typically can't see their own LED strip, so it may be nessessary to coordinate another pilot or return to base in order to reactivate your drone.
 
 The secondary job of a Scout is to perform reconnoissance and to relay information to other team members.  How this information is relayed depends on what upgrades have been unlocked. For example, a pilot mic gives a scout audio communication with their teams pilots.  Another upgrade unlocks a map that is visible to pilots, and allow points to be marked by a scout.
 
